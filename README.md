@@ -12,36 +12,59 @@
 I'm **Mike Aremu** — also known as **Stackmike**, a developer passionate about **AI, automation, trading systems, and digital platforms**.  
 I build tools that merge data, creativity, and technology to solve real problems.
 
-- 🔭 Currently building: **ConsultDoc AI Plugin** (WordPress healthcare chatbot)
-- 💡 Exploring: AI trading bots, blockchain analytics, and automation systems
-- 🌍 Founder of: [Macre8tive Design Hub](https://mikearemu.com.ng)
-- 🎯 Goal: Building systems that make tech work smarter — not harder
+- 🔭 Currently building: **ConsultDoc AI Plugin** (WordPress healthcare chatbot)  
+- 💡 Exploring: AI trading bots, blockchain analytics, and automation systems  
+- 🌍 Founder of: [Macre8tive Design Hub](https://mikearemu.com.ng)  
+- 🎯 Goal: Building systems that make tech work smarter — not harder  
 
 ---
 
-### ⚙️ My Tech Stack
+### ⚙️ Tech Stack
 
-| Category | Tools |
-|-----------|--------|
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Python (FastAPI, Flask), PHP (Laravel, CodeIgniter) |
-| **Database** | Firebase, PostgreSQL, MongoDB, MySQL |
-| **AI / Data** | Pandas, NumPy, TensorFlow, OpenAI, Gemini API |
-| **DevOps / Hosting** | Docker, Vercel, DigitalOcean, GitHub Actions |
-| **Extras** | WordPress Plugin Dev, SEO, REST APIs, PWA, Webhooks |
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
----
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
 
-### 🧩 Featured Projects
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-#### 💬 [ConsultDoc AI Plugin](https://github.com/mikearemu/consultdoc-ai)
-> A WordPress healthcare chatbot that uses AI to assist patients and schedule doctor appointments.
+<p align="center">
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-#### 🤖 [Crypto Prediction Bot](https://github.com/mikearemu/crypto-predictor)
-> AI-powered Telegram bot that forecasts crypto price direction with up to 80% accuracy.
-
-#### ⚡ [SkillSwap PWA](https://github.com/mikearemu/skillswap)
-> Peer-to-peer micro-skill exchange marketplace with barter and monetization features.
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
 ---
 
