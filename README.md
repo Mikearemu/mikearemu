@@ -12,9 +12,9 @@
 I'm **Mike Aremu** — also known as **Stackmike**, a developer passionate about **AI, automation, trading systems, and digital platforms**.  
 I build tools that merge data, creativity, and technology to solve real problems.
 
-- 🔭 Currently building: **ConsultDoc AI Plugin** (WordPress healthcare chatbot)  
+- 🔭 Currently building Alot
 - 💡 Exploring: AI trading bots, blockchain analytics, and automation systems  
-- 🌍 Founder of: [Macre8tive Design Hub](https://mikearemu.com.ng)  
+- 🌍 Founder of: [Macre8tive Design Hub](https://macre8tive.com)  
 - 🎯 Goal: Building systems that make tech work smarter — not harder  
 
 ---
